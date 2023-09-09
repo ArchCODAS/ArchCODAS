@@ -18,5 +18,3 @@
 - Lembre-se de me falar qual o projeto desejado!
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1082721063676432464)
-
-Eu sou apenas um apaixonado por este mundo virtual... 😉
