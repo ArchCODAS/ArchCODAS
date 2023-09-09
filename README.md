@@ -11,8 +11,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Eu sou apenas um apaixonado por este mundo virtual... 😉
-
 ### Contrate-me:
 
 - Entre em contato comigo através do meu Discord!
@@ -20,3 +18,5 @@ Eu sou apenas um apaixonado por este mundo virtual... 😉
 - Lembre-se de me falar qual o projeto desejado!
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1082721063676432464)
+
+Eu sou apenas um apaixonado por este mundo virtual... 😉
